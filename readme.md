@@ -1,3 +1,7 @@
+# Inspiration
+
+The project is being taken inspiration from Joan Ramos Refusta project. This is an initial setup and a lot of changes are being worked upon to make it my own.
+
 # Kritagya's OS
 
 This is the most personal section of my portfolio, where I've created a simulated Windows OS with various desktop tools and references. Through this project, I aim to showcase not only my personal interests but also my skills in HTML and CSS. It's a reflection of both my personal life and my experience as a developer.
