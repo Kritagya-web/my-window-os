@@ -6,24 +6,24 @@ The project is being taken inspiration from Joan Ramos Refusta project. This is 
 
 This is the most personal section of my portfolio, where I've created a simulated Windows OS with various desktop tools and references. Through this project, I aim to showcase not only my personal interests but also my skills in HTML and CSS. It's a reflection of both my personal life and my experience as a developer.
 
-You can now explore it [here](https://Kritagya-os.vercel.app/).
+You can now explore it [here](https://kritagya-win10-os.vercel.app//).
 
 ## Links
 
 ### Kritagya's Arcade Machine
 
-- [Source Code](https://github.com/jrefusta/Kritagya-arcade-machine)
-- [Live Demo](https://Kritagya-arcade-machine.vercel.app/)
+- [Source Code](https://github.com/Kritagya-web/kritagya-arcade-machine-3d)
+- [Live Demo](https://kritagya-arcade-machine-3d.vercel.app/)
 
 ### Kritagya Kumra's Portfolio
 
-- [Source Code](https://github.com/jrefusta/Kritagya-portfolio)
-- [Live Demo](https://Kritagyaramosrefusta.com/)
+- [Source Code](https://github.com/Kritagya-web/kritagya-3d-portfolio)
+- [Live Demo](https://kritagya-3d-portfolio.vercel.app/)
 
 ### Kritagya's Art Gallery
 
-- [Source Code](https://github.com/jrefusta/Kritagya-art-gallery)
-- [Live Demo](https://Kritagya-art-gallery.vercel.app/)
+- [Source Code](https://github.com/Kritagya-web/kritagya-art-gallery-3d)
+- [Live Demo](https://kritagya-art-gallery-3d.vercel.app/)
 
 ## Setup
 
